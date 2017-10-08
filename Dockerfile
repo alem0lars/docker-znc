@@ -1,1 +1,1 @@
-FROM znc
+FROM linuxserver/znc
